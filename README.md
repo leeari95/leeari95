@@ -5,7 +5,9 @@
 ### Hello, I'm Ari 🐥
 Thank you for visiting my github.
 
-I am a young prospects from South Korea 🇰🇷. I'm interested in Swift and iOS development. I love photography, coffee and cafe.  
+I am a young prospects from South Korea 🇰🇷. I'm interested in Swift and iOS development . I love photography, coffee and cafe.  
+If you want to contact me, please leave me a message!
+
 <br>
 
 ### 💫 Experience
@@ -19,7 +21,6 @@ I am a young prospects from South Korea 🇰🇷. I'm interested in Swift and iO
 
 
 <br>  
-If you want to contact me, please leave me a message!
 
 #
   
