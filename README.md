@@ -9,7 +9,7 @@ I am a young prospects from South Korea 🇰🇷. I'm interested in Swift and iO
 <br>
 
 💫 Experience
-- **yagom-academy** - Code Starter Camp courses *(Aug 2021 - Sep 2021)*
+- [**yagom-academy**](https://www.yagom-academy.kr/camp/code-starter) - Code Starter Camp courses *(Aug 2021 - Sep 2021)*
 <br>
 
 ### ✨ Summary
