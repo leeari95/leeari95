@@ -12,7 +12,7 @@ If you want to contact me, please leave me a message!
 
 ### 💫 Experience
 - [**yagom-academy**](https://www.yagom-academy.kr/camp/code-starter) - Code Starter Camp courses *(Aug 2021 - Sep 2021)*
-- [**yagom-academy**](https://www.yagom-academy.kr/camp/career-starter) - Career Starter Camp Course *(Oct 2021 - )*
+- [**yagom-academy**](https://www.yagom-academy.kr/camp/career-starter) - Career Starter Camp courses *(Oct 2021 - )*
 <br>
 
 ### ✨ Summary
