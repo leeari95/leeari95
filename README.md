@@ -25,6 +25,7 @@ If you want to contact me, please leave me a message!
 ### 🐻 Yagom academy curriculum in progress
 |No|프로젝트|기간|Step 1|Step 2|Step 3|Step 4|Reviewer|
 |:--:|:------:|:---:|:------:|:------:|:------:|:------:|:--------:|
+|7|[오픈 마켓](https://github.com/leeari95/ios-open-market)|2주|-|-|-|-|[@GREENOVER](https://github.com/GREENOVER)
 |7|[은행창구매니저](https://github.com/leeari95/ios-bank-manager)|2주|[PR](https://github.com/yagom-academy/ios-bank-manager/pull/101)|[PR](https://github.com/yagom-academy/ios-bank-manager/pull/115)|[PR](https://github.com/yagom-academy/ios-bank-manager/pull/128)|[PR](https://github.com/yagom-academy/ios-bank-manager/pull/138)|[@delmaSong](https://github.com/delmaSong)|
 |6|[만국박람회](https://github.com/leeari95/ios-exposition-universelle)|2주|[PR](https://github.com/yagom-academy/ios-exposition-universelle/pull/109)|[PR](https://github.com/yagom-academy/ios-exposition-universelle/pull/118)|[PR](https://github.com/yagom-academy/ios-exposition-universelle/pull/127)|-|[@jae57](https://github.com/jae57)|
 |5|[계산기(모둠)](https://github.com/Kim-EunsooSilver/ios-calculator-app/tree/Nicholas_Ari_step2)|2주|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/134)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/149)|-|-|[@corykim0829](https://github.com/corykim0829)|
@@ -32,7 +33,6 @@ If you want to contact me, please leave me a message!
 |3|[쥬스 메이커](https://github.com/leeari95/ios-juice-maker/tree/4-leeari95)|3주|[PR](https://github.com/yagom-academy/ios-juice-maker/pull/105)|[PR](https://github.com/yagom-academy/ios-juice-maker/pull/119)|[PR](https://github.com/yagom-academy/ios-juice-maker/pull/135)|-|[@daheenallwhite](https://github.com/daheenallwhite)|
 |2|[묵찌빠 게임](https://github.com/leeari95/ios-rock-paper-scissors/tree/4-leeari95)|1주|[PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/82)|[PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/97)|-|-|[@Soll](https://github.com/soll4u)|
 |1|[숫자 야구](https://github.com/leeari95/ios-number-baseball/tree/4-leeari95)|1주|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/49)|-|-|-|[@Coden](https://github.com/ictechgy)|
-
 
 <br>  
 
