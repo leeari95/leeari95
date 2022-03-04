@@ -24,7 +24,7 @@ If you want to contact me, please leave me a message!
 
 |No|프로젝트|기간|Step 1|Step 2|Step 3|Step 4|Reviewer|
 |:--:|:------:|:---:|:------:|:------:|:------:|:------:|:--------:|
-|10|[프로젝트 매니저](https://github.com/leeari95/ios-project-manager)|2주|[PR](https://github.com/yagom-academy/ios-project-manager/pull/65)|-|-|-|[@ryan-son](https://github.com/ryan-son)
+|10|[프로젝트 매니저](https://github.com/leeari95/ios-project-manager)|2주|[PR](https://github.com/yagom-academy/ios-project-manager/pull/65)|[PR](https://github.com/yagom-academy/ios-project-manager/pull/83)|-|-|[@ryan-son](https://github.com/ryan-son)
 |9|[동기화 메모장](https://github.com/leeari95/ios-cloud-notes)|3주|[PR](https://github.com/yagom-academy/ios-cloud-notes/pull/76)|[PR](https://github.com/yagom-academy/ios-cloud-notes/pull/84)|[PR](https://github.com/yagom-academy/ios-cloud-notes/pull/90)|[PR](https://github.com/yagom-academy/ios-cloud-notes/pull/98)|[@SungPyo](https://github.com/SungPyo)
 |8|[오픈 마켓](https://github.com/leeari95/ios-open-market)|2주|[PR](https://github.com/yagom-academy/ios-open-market/pull/82)|[PR](https://github.com/yagom-academy/ios-open-market/pull/93)|[PR(Bonus)](https://github.com/yagom-academy/ios-open-market/pull/98) </br> [PR](https://github.com/yagom-academy/ios-open-market/pull/109)|[PR](https://github.com/yagom-academy/ios-open-market/pull/120)|[@GREENOVER](https://github.com/GREENOVER)
 |7|[은행창구매니저](https://github.com/leeari95/ios-bank-manager)|2주|[PR](https://github.com/yagom-academy/ios-bank-manager/pull/101)|[PR](https://github.com/yagom-academy/ios-bank-manager/pull/115)|[PR](https://github.com/yagom-academy/ios-bank-manager/pull/128)|[PR](https://github.com/yagom-academy/ios-bank-manager/pull/138)|[@delmaSong](https://github.com/delmaSong)|
