@@ -18,7 +18,7 @@ If you want to contact me, please leave me a message!
 
 ### ✨ Summary
 
-- 💪🏻 I'm used to `Swift`, `UiKit`
+- 💪🏻 I'm used to `Swift`, `UIKit`
 - 🌱 I’m currently learning `RxSwift`
 - 📝I regularly write articles on [my blog](https://leeari95.tistory.com).
 
