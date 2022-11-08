@@ -28,4 +28,4 @@ If you want to contact me, please leave me a message!
 
 #
   
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-222222?style=flat-square&logo=Apple&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-222222?style=flat-square&logo=Apple&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-1560d2?style=flat-square&logo=Xcode&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-111111?style=flat-square&logo=Notion&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-b056f6?style=flat-square&logo=Figma&logoColor=white) 
