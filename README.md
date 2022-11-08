@@ -11,8 +11,10 @@ If you want to contact me, please leave me a message!
 &nbsp;
 
 ### 💫 Experience
-- [**yagom-academy**](https://www.yagom-academy.kr/camp/code-starter) - Code Starter Camp courses *(Aug 2021 - Sep 2021)*
+
+- [**YAPP**](https://www.yapp.co.kr/) - 21st *(Oct 2022 - )*
 - [**yagom-academy**](https://www.yagom-academy.kr/camp/career-starter) - Career Starter Camp courses *(Oct 2021 - Apr 2022)*
+- [**yagom-academy**](https://www.yagom-academy.kr/camp/code-starter) - Code Starter Camp courses *(Aug 2021 - Sep 2021)*
 
 &nbsp;
 
